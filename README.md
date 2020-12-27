@@ -6,8 +6,8 @@ Source: [Surrey Morphology Group](https://oto-manguean.surrey.ac.uk/Search/XTY)
 
 Cite:
 > @incollection{xty2015, 
->      title={Oto-manguean inflectional class database: {Y}olox\'{o}chitl {M}ixtec}, 
->      author={Feist, Timothy and Palancar, Enrique L. and Amith, Jonathan and Castillo Garc\'{i}a, Rey}, 
+>      title={Oto-manguean inflectional class database: {Y}olox\\'{o}chitl {M}ixtec}, 
+>      author={Feist, Timothy and Palancar, Enrique L. and Amith, Jonathan and Castillo Garc\\'{i}a, Rey}, 
 >      editor  = {Feist, Timothy and Palancar, Enrique L.},
 >      year={2015}, 
 >      publisher={University of Surrey},
